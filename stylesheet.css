@@ -1,0 +1,68 @@
+nav {
+  background-color: rgba(255, 255, 255, 0);
+  width: 100%;
+  overflow: auto;
+}
+.nav-links a {
+  float: right;
+  color: rgb(46, 46, 46);
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  padding: 12px;
+}
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+.logo {
+  display: block;
+  margin: 10px auto 20px;
+  padding-top: 112px;
+  padding-bottom: 20px;
+}
+.search {
+  margin: 10px auto 20px;
+  display: block;
+  width: 450px;
+  line-height: 32px;
+}
+
+.search:hover {
+  border-color: rgb(85, 108, 119);
+}
+
+.buttons {
+  text-align: center;
+  padding-top: 30px;
+  margin-bottom: 300px;
+  box-shadow: none;
+}
+
+#button-t {
+  line-height: 27px;
+  font-size: 15px;
+  letter-spacing: normal;
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+.foot2 {
+  background-color: #f2f2f2;
+  width: 100%;
+  overflow: auto;
+  bottom: 0px;
+}
+.foot2 a {
+  float: left;
+  color: #000000;
+  opacity: 54%;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  padding: 12px;
+}
+
+.float2 a:hover {
+  text-decoration: underline;
+}
